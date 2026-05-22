@@ -1,0 +1,5 @@
+<module>
+    <components>
+        <component class="ui.NativeIFrame" />
+    </components>
+</module>

@@ -1,3 +1,4 @@
-.haxelib/
-.haxelsp/recording/
-dump/
+build/
+EBWebView/
+stagewebview.hdll
+WebView2Loader.dll
