@@ -1,5 +1,6 @@
 <module>
     <components>
         <component class="ui.NativeIFrame" />
+        <component class="ui.CodeArea" />
     </components>
 </module>
